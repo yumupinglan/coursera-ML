@@ -1,0 +1,13 @@
+1.false
+2.model2
+3.3
+4.model2
+5.c
+6.a
+7.false
+8.bias
+9.Variance
+10.overfitted
+11.D
+12.AC
+13.E
