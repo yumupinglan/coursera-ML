@@ -1,0 +1,11 @@
+ X3
+ 4
+ 0
+ 3
+ 0
+ T2
+ True
+ C
+ C
+ c
+ false
