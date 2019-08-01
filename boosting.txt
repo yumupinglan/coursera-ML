@@ -1,0 +1,11 @@
+D
+-1
+False
+True
+B
+E
+0
+A
+2,3
+A
+False
